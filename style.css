@@ -3,6 +3,10 @@
   justify-content: space-evenly;
 }
 
+.footer{
+  width: 20px;
+}
+
 .r{
   display: flex;
   flex-direction: column;
