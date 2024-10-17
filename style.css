@@ -249,6 +249,11 @@ details[open] .header-summary::after {
 .main-div-many{
   margin-bottom: 30px;
   border: 1px solid black;
+  width: 330px;
+}
+
+.main-div-many1{
+  margin-bottom: 30px;
   border-left:3px solid red ;
   width: 330px;
 }
