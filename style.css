@@ -338,3 +338,38 @@ main{
   text-decoration: none;
   color: black;
 }
+
+
+.button{
+display: flex;
+justify-content: center;
+}
+.full-menu-button {
+padding: 10px 30px;
+border: 1px solid gray;
+border-radius: 5px;
+text-align: center;
+margin-top: 20px;
+cursor: pointer;
+background-color: #fff;
+display: block;
+}
+
+
+
+
+.full-menu-button:hover {
+box-shadow: 0px 3px 3px gray;
+}
+
+
+.second_row, .first_row, .third_row, .fourth_row{
+display: flex;
+justify-content: center;
+}
+.fourth_row {
+
+
+align-items: center;
+width:100%;
+}
